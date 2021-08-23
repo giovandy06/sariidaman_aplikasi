@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291213471361",
+    "project_id": "push-notification-1eabb",
+    "storage_bucket": "push-notification-1eabb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291213471361:android:a134f36be4946e6352a780",
+        "android_client_info": {
+          "package_name": "com.sariidaman.giovan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291213471361-535bqhtkkmntiugvnrie6fb6j43k46hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIWFv71YEAZfYrOilPheao-pJIvG2qB8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291213471361-535bqhtkkmntiugvnrie6fb6j43k46hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
